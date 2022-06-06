@@ -16,16 +16,15 @@ mr.makasiuk@gmail.com
          Commercial Activity
      ..* Qualification:
          Economist
----
 ## *COURSES*
    * Epol Soft Telecom Academy 2018
 ---
 ## *Work Experience*
    * Epol Soft, Brest.
      2 years 9 months
-### *Projects
+### *Projects*
     *Multimedia Telephony Application Server
-      ..* Description:
+       * Description:
           Multimedia Telephony Application Server is a high-perfomance carrier
           class application server for voice and multimedia applications
           providing cost efficient services for next generation mobile and fixed
@@ -39,9 +38,9 @@ mr.makasiuk@gmail.com
           networks, introduce Voice over LTE as well as building an excellent
           foundation to offer a service evolution for next generation end
           user services.
-      ..* Applied technologies
+       * Applied technologies
           C/C++, Python, Perl, SIP, RTP, Diameter, TCP/IP, UDP, Bash
-      ..* Tasks:
+       * Tasks:
           Development, testing, bugfixing.
 ## *Skills*
    *C
@@ -55,7 +54,8 @@ mr.makasiuk@gmail.com
    *English A2+
    
 ## *Code Example*
-    '''javascript
+    ```javascript
     function multiply(a, b){
     return a*b
     }
+    ```
