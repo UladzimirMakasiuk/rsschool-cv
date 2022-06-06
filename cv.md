@@ -6,15 +6,15 @@ mr.makasiuk@gmail.com
 ## *EDUCATION:*
     1.College of Business and Law
     2011-2015
-     ..* Speciality:
+      * Speciality:
          Information Technology Software
-     ..* Qualification:
+      * Qualification:
          Technician Programmer
     2.Brest State Technical University
     2015-2019
-     ..* Speciality:
+      * Speciality:
          Commercial Activity
-     ..* Qualification:
+      * Qualification:
          Economist
 ## *COURSES*
    * Epol Soft Telecom Academy 2018
@@ -23,7 +23,7 @@ mr.makasiuk@gmail.com
    * Epol Soft, Brest.
      2 years 9 months
 ### *Projects*
-    *Multimedia Telephony Application Server
+    * Multimedia Telephony Application Server
        * Description:
           Multimedia Telephony Application Server is a high-perfomance carrier
           class application server for voice and multimedia applications
@@ -43,15 +43,15 @@ mr.makasiuk@gmail.com
        * Tasks:
           Development, testing, bugfixing.
 ## *Skills*
-   *C
-   *C++
-   *Python
-   *OOP
-   *Git
-   *Visual Studio
-   *Visual Studio Code
-   *Qt Creator
-   *English A2+
+   * C
+   * C++
+   * Python
+   * OOP
+   * Git
+   * Visual Studio
+   * Visual Studio Code
+   * Qt Creator
+   * English A2+
    
 ## *Code Example*
     ```javascript
