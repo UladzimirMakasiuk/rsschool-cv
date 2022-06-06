@@ -1,4 +1,6 @@
 # *ULADZIMIR MAKASIUK*
+
+
 +375 33 304 02 52
 
 mr.makasiuk@gmail.com
@@ -54,11 +56,3 @@ mr.makasiuk@gmail.com
    * Visual Studio Code
    * Qt Creator
    * English A2+
-   
-## *Code Example*
-
-    ```javascript
-  function multiply(a, b){
-  return a*b
-  }
-    ```
