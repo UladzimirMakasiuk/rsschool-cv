@@ -56,3 +56,9 @@ mr.makasiuk@gmail.com
    * Visual Studio Code
    * Qt Creator
    * English A2+
+
+## *Code Example*
+
+   function multiply(a, b){
+   return a*b
+   }
