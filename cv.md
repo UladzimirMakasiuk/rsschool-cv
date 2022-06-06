@@ -59,6 +59,6 @@ mr.makasiuk@gmail.com
 
 ## *Code Example*
 
-   function multiply(a, b){
-   return a*b
-   }
+    function multiply(a, b){
+    return a*b
+    }
